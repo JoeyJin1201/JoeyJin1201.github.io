@@ -1157,7 +1157,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #6b52ff;
+  background: #457555;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2447,6 +2447,10 @@ ul.breadcrumb li + li:last-child {
 }
 .container {
   font-family: 'Gaegu', 'NotoSansTC', "PingFang SC", "Microsoft YaHei", sans-serif;
+  -ms-font-family: 'Gaegu', 'NotoSansTC', "PingFang SC", "Microsoft YaHei", sans-serif;
+  -moz-font-family: 'Gaegu', 'NotoSansTC', "PingFang SC", "Microsoft YaHei", sans-serif;
+  -o-font-family: 'Gaegu', 'NotoSansTC', "PingFang SC", "Microsoft YaHei", sans-serif;
+  -webkit-font-family: 'Gaegu', 'NotoSansTC', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .container .site-meta {
   background: #003171;
