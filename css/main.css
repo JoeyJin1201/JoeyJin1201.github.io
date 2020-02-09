@@ -173,7 +173,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Gaegu', 'NotoSansTC', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'NotoSansTC', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 20px 0 15px;
@@ -1157,7 +1157,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #b9b8b6;
+  background: #f513c3;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2449,7 +2449,7 @@ ul.breadcrumb li + li:last-child {
   font-family: 'Gaegu', 'NotoSansTC', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .container .site-meta {
-  background: #003171;
+  background: #1b294b;
 }
 .container .site-author-name {
   font-size: 1.75rem;
