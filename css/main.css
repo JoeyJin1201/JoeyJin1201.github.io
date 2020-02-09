@@ -173,7 +173,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'NotoSansTC', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Gaegu', 'NotoSansTC', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 20px 0 15px;
@@ -1157,7 +1157,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #58ffff;
+  background: #b9b8b6;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
