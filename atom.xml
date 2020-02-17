@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JoeyTheLab</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://joeyjin1201.github.io/"/>
+  <updated>2020-02-17T21:50:20.659Z</updated>
+  <id>https://joeyjin1201.github.io/</id>
+  
+  <author>
+    <name>Joey</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test article</title>
+    <link href="https://joeyjin1201.github.io/category/20200217/1137521214/"/>
+    <id>https://joeyjin1201.github.io/category/20200217/1137521214/</id>
+    <published>2020-02-17T07:58:16.000Z</published>
+    <updated>2020-02-17T21:50:20.659Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://i1.wp.com/abtechsolutions.ca/wp-content/uploads/2019/02/Test.png?resize=256%2C225&amp;ssl=1&quot; alt=&quot;new&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Test" scheme="https://joeyjin1201.github.io/categories/Test/"/>
+    
+    
+      <category term="test" scheme="https://joeyjin1201.github.io/tags/test/"/>
+    
+      <category term="forTest" scheme="https://joeyjin1201.github.io/tags/forTest/"/>
+    
+      <category term="justForTest" scheme="https://joeyjin1201.github.io/tags/justForTest/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://joeyjin1201.github.io/category/20200208/1243066712/"/>
+    <id>https://joeyjin1201.github.io/category/20200208/1243066712/</id>
+    <published>2020-02-08T02:15:02.726Z</published>
+    <updated>2020-02-09T23:28:19.867Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvLw==&quot; title=&quot;https://hexo.io/&quot;&gt;Hexo&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;! This is your very first post. Check &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&quot; title=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&quot; title=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt; or you can ask me on &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&quot; title=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="copyCat" scheme="https://joeyjin1201.github.io/categories/copyCat/"/>
+    
+    
+      <category term="copy" scheme="https://joeyjin1201.github.io/tags/copy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://joeyjin1201.github.io/category/20200208/1243066711/"/>
+    <id>https://joeyjin1201.github.io/category/20200208/1243066711/</id>
+    <published>2020-02-08T02:15:00.536Z</published>
+    <updated>2020-02-09T23:28:19.866Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvLw==&quot; title=&quot;https://hexo.io/&quot;&gt;Hexo&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;! This is your very first post. Check &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&quot; title=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&quot; title=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt; or you can ask me on &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&quot; title=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="copyCat" scheme="https://joeyjin1201.github.io/categories/copyCat/"/>
+    
+    
+      <category term="copy" scheme="https://joeyjin1201.github.io/tags/copy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://joeyjin1201.github.io/category/20200208/1243066710/"/>
+    <id>https://joeyjin1201.github.io/category/20200208/1243066710/</id>
+    <published>2020-02-08T02:14:56.453Z</published>
+    <updated>2020-02-09T23:28:19.865Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvLw==&quot; title=&quot;https://hexo.io/&quot;&gt;Hexo&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;! This is your very first post. Check &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&quot; title=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&quot; title=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt; or you can ask me on &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&quot; title=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="copyCat" scheme="https://joeyjin1201.github.io/categories/copyCat/"/>
+    
+    
+      <category term="copy" scheme="https://joeyjin1201.github.io/tags/copy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://joeyjin1201.github.io/category/20200207/1243066713/"/>
+    <id>https://joeyjin1201.github.io/category/20200207/1243066713/</id>
+    <published>2020-02-07T07:30:59.076Z</published>
+    <updated>2020-02-09T23:28:19.868Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvLw==&quot; title=&quot;https://hexo.io/&quot;&gt;Hexo&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;! This is your very first post. Check &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&quot; title=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&quot; title=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt; or you can ask me on &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&quot; title=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="test" scheme="https://joeyjin1201.github.io/categories/test/"/>
+    
+    
+      <category term="hellow" scheme="https://joeyjin1201.github.io/tags/hellow/"/>
+    
+      <category term="world" scheme="https://joeyjin1201.github.io/tags/world/"/>
+    
+  </entry>
+  
+</feed>
