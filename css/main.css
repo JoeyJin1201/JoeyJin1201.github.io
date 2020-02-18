@@ -1204,7 +1204,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a304ff;
+  background: #fb77ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2622,30 +2622,22 @@ ul.breadcrumb li + li:last-child {
 .links-of-blogroll-item {
   padding: 0;
 }
-.container {
+.site-title,
+.site-author-name,
+.site-description {
   font-family: 'Gaegu', 'NotoSansTC', "PingFang SC", "Microsoft YaHei", sans-serif !important;
 }
-.container .site-title {
-  font-family: 'Gaegu', 'NotoSansTC', "PingFang SC", "Microsoft YaHei", sans-serif !important;
-}
-.container .site-meta {
+.site-meta {
   background: #1b294b;
 }
-.container .site-author-image:active {
+.site-author-image:active {
   transform: scale(1.05);
   transition: scale 500ms ease-in-out;
 }
-.container .site-author-name {
+.site-author-name {
   font-size: 1.75rem;
 }
-.container .site-description {
+.site-description {
   padding: 0 0.5rem;
-  font-size: 1rem;
-}
-.container .site-state-item-count,
-.container .links-of-author {
-  font-size: 1.25rem;
-}
-.container .nav {
   font-size: 1rem;
 }
