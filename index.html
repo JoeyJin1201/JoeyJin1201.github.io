@@ -18,36 +18,11 @@
   <link rel="stylesheet" href="/lib/pace/pace-theme-flash.min.css">
   <script src="/lib/pace/pace.min.js"></script>
 
-
 <script id="hexo-configurations">
-  var NexT = window.NexT || {};
-  var CONFIG = {
-    hostname: new URL('https://joeyjin1201.github.io').hostname,
-    root: '/',
-    scheme: 'Pisces',
-    version: '7.7.1',
-    exturl: true,
-    sidebar: {"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},
-    copycode: {"enable":true,"show_result":true,"style":"mac"},
-    back2top: {"enable":true,"sidebar":false,"scrollpercent":true},
-    bookmark: {"enable":false,"color":"#222","save":"auto"},
-    fancybox: true,
-    mediumzoom: false,
-    lazyload: false,
-    pangu: false,
-    comments: {"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},
-    algolia: {
-      appID: 'PR1ZFQSSBW',
-      apiKey: '329f2131bd5bbd28afaf68ff2f0bc29a',
-      indexName: 'JoeyTheLab',
-      hits: {"per_page":10},
-      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
-    },
-    localsearch: {"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
-    path: '',
-    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}
-  };
-</script>
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"joeyjin1201.github.io","root":"/","scheme":"Pisces","version":"7.7.2","exturl":true,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":"mac"},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"appID":"PR1ZFQSSBW","apiKey":"329f2131bd5bbd28afaf68ff2f0bc29a","indexName":"JoeyTheLab","hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
   <meta name="description" content="Junior Front-end Engineer enjoy coding everyday.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="JoeyTheLab">
@@ -67,8 +42,8 @@
   // https://hexo.io/docs/variables.html
   CONFIG.page = {
     sidebar: "",
-    isHome: true,
-    isPost: false
+    isHome : true,
+    isPost : false
   };
 </script>
 
@@ -121,6 +96,14 @@
 
     <header class="header" itemscope itemtype="http://schema.org/WPHeader">
       <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切換導航欄">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
   <div class="site-meta">
 
     <div>
@@ -132,11 +115,9 @@
     </div>
   </div>
 
-  <div class="site-nav-toggle">
-    <div class="toggle" aria-label="切換導航欄">
-      <span class="toggle-line toggle-line-first"></span>
-      <span class="toggle-line toggle-line-middle"></span>
-      <span class="toggle-line toggle-line-last"></span>
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
     </div>
   </div>
 </div>
@@ -178,7 +159,7 @@
   <span class="search-icon">
     <i class="fa fa-search"></i>
   </span>
-  <div class="search-input" id="search-input"></div>
+  <div class="search-input-container"></div>
   <span class="popup-btn-close">
     <i class="fa fa-times-circle"></i>
   </span>
@@ -256,9 +237,7 @@
               </span>
               <span class="post-meta-item-text">分類於</span>
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Test/" itemprop="url" rel="index">
-                    <span itemprop="name">Test</span>
-                  </a>
+                  <a href="/categories/Test/" itemprop="url" rel="index"><span itemprop="name">Test</span></a>
                 </span>
             </span>
 
@@ -339,9 +318,7 @@
               </span>
               <span class="post-meta-item-text">分類於</span>
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/copyCat/" itemprop="url" rel="index">
-                    <span itemprop="name">copyCat</span>
-                  </a>
+                  <a href="/categories/copyCat/" itemprop="url" rel="index"><span itemprop="name">copyCat</span></a>
                 </span>
             </span>
 
@@ -422,9 +399,7 @@
               </span>
               <span class="post-meta-item-text">分類於</span>
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/copyCat/" itemprop="url" rel="index">
-                    <span itemprop="name">copyCat</span>
-                  </a>
+                  <a href="/categories/copyCat/" itemprop="url" rel="index"><span itemprop="name">copyCat</span></a>
                 </span>
             </span>
 
@@ -505,9 +480,7 @@
               </span>
               <span class="post-meta-item-text">分類於</span>
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/copyCat/" itemprop="url" rel="index">
-                    <span itemprop="name">copyCat</span>
-                  </a>
+                  <a href="/categories/copyCat/" itemprop="url" rel="index"><span itemprop="name">copyCat</span></a>
                 </span>
             </span>
 
@@ -588,9 +561,7 @@
               </span>
               <span class="post-meta-item-text">分類於</span>
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/test/" itemprop="url" rel="index">
-                    <span itemprop="name">test</span>
-                  </a>
+                  <a href="/categories/test/" itemprop="url" rel="index"><span itemprop="name">test</span></a>
                 </span>
             </span>
 
@@ -639,7 +610,7 @@
 
 <script>
   window.addEventListener('tabs:register', () => {
-    let activeClass = CONFIG.comments.activeClass;
+    let { activeClass } = CONFIG.comments;
     if (CONFIG.comments.storage) {
       activeClass = localStorage.getItem('comments_active') || activeClass;
     }
@@ -722,7 +693,7 @@
         <span class="exturl" data-url="bWFpbHRvOmpvZXk4MzEyMDFAZ21haWwuY29t" title="E-Mail → mailto:joey831201@gmail.com"><i class="fa fa-fw fa-envelope"></i>E-Mail</span>
       </span>
       <span class="links-of-author-item">
-        <span class="exturl" data-url="aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2ppdWV5dS5qaW4=" title="FB Page → https:&#x2F;&#x2F;www.facebook.com&#x2F;jiueyu.jin"><i class="fa fa-fw fa-facebook"></i>FB Page</span>
+        <span class="exturl" data-url="aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3lvdXJuYW1l" title="FB Page → https:&#x2F;&#x2F;www.facebook.com&#x2F;yourname"><i class="fa fa-fw fa-facebook"></i>FB Page</span>
       </span>
       <span class="links-of-author-item">
         <span class="exturl" data-url="aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2pvZXkxMjAx" title="Instagram → https:&#x2F;&#x2F;instagram.com&#x2F;joey1201"><i class="fa fa-fw fa-instagram"></i>Instagram</span>
@@ -756,26 +727,6 @@
 </div>
 
         
-<div class="busuanzi-count">
-  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
-      <span class="post-meta-item-icon">
-        <i class="fa fa-user"></i>
-      </span>
-      <span class="site-uv" title="訪客總數">
-        <span id="busuanzi_value_site_uv"></span>
-      </span>
-    </span>
-    <span class="post-meta-divider">|</span>
-    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
-      <span class="post-meta-item-icon">
-        <i class="fa fa-eye"></i>
-      </span>
-      <span class="site-pv" title="總瀏覽次數">
-        <span id="busuanzi_value_site_pv"></span>
-      </span>
-    </span>
-</div>
 
 
 
@@ -814,8 +765,8 @@
 
 
   
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/instantsearch.js@2/dist/instantsearch.min.css">
-<script src="//cdn.jsdelivr.net/npm/instantsearch.js@2/dist/instantsearch.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+<script src="//cdn.jsdelivr.net/npm/instantsearch.js@4/dist/instantsearch.production.min.js"></script>
 <script src="/js/algolia-search.js"></script>
 
 
