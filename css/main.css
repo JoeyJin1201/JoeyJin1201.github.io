@@ -1204,7 +1204,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #6b9d99;
+  background: #40acff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2630,9 +2630,9 @@ ul.breadcrumb li + li:last-child {
 .site-meta {
   background: #1b294b;
 }
-.site-author-image:active {
+.site-author-image:hover {
   transform: scale(1.05);
-  transition: scale 500ms ease-in-out;
+  transition: all 500ms ease-in-out;
 }
 .site-author-name {
   font-size: 1.75rem;
