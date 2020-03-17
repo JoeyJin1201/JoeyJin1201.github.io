@@ -24,3 +24,5 @@ this is a test article.
 this is just a test article.
 
 this is a article for testing.
+
+test only.
