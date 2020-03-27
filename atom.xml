@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://joeyjin1201.github.io/"/>
-  <updated>2020-03-27T09:23:46.679Z</updated>
+  <updated>2020-03-27T09:40:23.090Z</updated>
   <id>https://joeyjin1201.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Flex 其實沒有你想像中的難</title>
-    <link href="https://joeyjin1201.github.io/CSS/20200327/3200182051/"/>
-    <id>https://joeyjin1201.github.io/CSS/20200327/3200182051/</id>
+    <link href="https://joeyjin1201.github.io/css/20200327/3200182051/"/>
+    <id>https://joeyjin1201.github.io/css/20200327/3200182051/</id>
     <published>2020-03-27T06:33:38.000Z</published>
-    <updated>2020-03-27T09:23:46.679Z</updated>
+    <updated>2020-03-27T09:40:23.090Z</updated>
     
     <summary type="html">
     
@@ -32,7 +32,7 @@
     </summary>
     
     
-      <category term="CSS" scheme="https://joeyjin1201.github.io/categories/CSS/"/>
+      <category term="css" scheme="https://joeyjin1201.github.io/categories/css/"/>
     
     
       <category term="Flex" scheme="https://joeyjin1201.github.io/tags/Flex/"/>
