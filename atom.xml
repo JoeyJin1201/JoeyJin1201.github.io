@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://joeyjin1201.github.io/"/>
-  <updated>2020-03-28T02:33:42.774Z</updated>
+  <updated>2020-03-30T08:26:43.304Z</updated>
   <id>https://joeyjin1201.github.io/</id>
   
   <author>
@@ -17,22 +17,51 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Flex 其實沒有想像中複雜(初級20題)</title>
-    <link href="https://joeyjin1201.github.io/css/20200327/3200182051/"/>
-    <id>https://joeyjin1201.github.io/css/20200327/3200182051/</id>
-    <published>2020-03-27T06:33:38.000Z</published>
-    <updated>2020-03-28T02:33:42.774Z</updated>
+    <title>Flex 其實沒有想像中複雜(下)</title>
+    <link href="https://joeyjin1201.github.io/css/flex/20200330/4222085626/"/>
+    <id>https://joeyjin1201.github.io/css/flex/20200330/4222085626/</id>
+    <published>2020-03-30T04:25:38.000Z</published>
+    <updated>2020-03-30T08:26:43.304Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;首先要感謝六角學院的用心栽培以及大量的付出及回饋&lt;/p&gt;
-&lt;p&gt;光是一個&lt;code&gt;Flex&lt;/code&gt;居然還做了合計幾十關的&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhzY2hvb2wuZ2l0aHViLmlvL2ZsZXhib3gtcGlyYXRlL2luZGV4Lmh0bWwjLw==&quot; title=&quot;https://hexschool.github.io/flexbox-pirate/index.html#/&quot;&gt;遊戲&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;免費提供學員們練習&lt;/p&gt;
-&lt;p&gt;以下是我自己練習並紀錄過程，真心想學好&lt;code&gt;Flex&lt;/code&gt;的話，還是建議自己跑過一次流程哦！&lt;/p&gt;
+      &lt;p&gt;再度感謝六角學院的用心栽培、大量付出以及認真的回饋&lt;/p&gt;
+&lt;p&gt;這次為了&lt;code&gt;Flex&lt;/code&gt;再度推出合計10關的&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhzY2hvb2wuZ2l0aHViLmlvL2ZsZXhib3gtcGlyYXRlL2luZGV4Lmh0bWwjLw==&quot; title=&quot;https://hexschool.github.io/flexbox-pirate/index.html#/&quot;&gt;遊戲(老鳥村)&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;免費提供學員們在遊玩中學習&lt;/p&gt;
     
     </summary>
     
     
       <category term="css" scheme="https://joeyjin1201.github.io/categories/css/"/>
+    
+      <category term="flex" scheme="https://joeyjin1201.github.io/categories/css/flex/"/>
+    
+    
+      <category term="Flex" scheme="https://joeyjin1201.github.io/tags/Flex/"/>
+    
+      <category term="CSS" scheme="https://joeyjin1201.github.io/tags/CSS/"/>
+    
+      <category term="Practice" scheme="https://joeyjin1201.github.io/tags/Practice/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flex 其實沒有想像中複雜(上)</title>
+    <link href="https://joeyjin1201.github.io/css/flex/20200327/3200182051/"/>
+    <id>https://joeyjin1201.github.io/css/flex/20200327/3200182051/</id>
+    <published>2020-03-27T06:33:38.000Z</published>
+    <updated>2020-03-30T04:51:45.265Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;首先要感謝六角學院的用心栽培、大量付出以及認真的回饋&lt;/p&gt;
+&lt;p&gt;光是一個&lt;code&gt;Flex&lt;/code&gt;居然做了合計20關的&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhzY2hvb2wuZ2l0aHViLmlvL2ZsZXhib3gtcGlyYXRlL2luZGV4Lmh0bWwjLw==&quot; title=&quot;https://hexschool.github.io/flexbox-pirate/index.html#/&quot;&gt;遊戲(新手村)&lt;i class=&quot;fa fa-external-link&quot;&gt;&lt;/i&gt;&lt;/span&gt;免費提供學員們在遊玩中學習&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="css" scheme="https://joeyjin1201.github.io/categories/css/"/>
+    
+      <category term="flex" scheme="https://joeyjin1201.github.io/categories/css/flex/"/>
     
     
       <category term="Flex" scheme="https://joeyjin1201.github.io/tags/Flex/"/>
